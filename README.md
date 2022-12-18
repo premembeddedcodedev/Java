@@ -5,3 +5,6 @@ compile
 
 to see the output: 
   java sample
+  
+Reference:
+  how to compile java program in ubuntu terminal
